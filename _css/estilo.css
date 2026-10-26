@@ -1,0 +1,50 @@
+body{
+    background-image: url("../_images/social-thumbnail-en-ddcf4d23.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr{
+    border: solid;
+    color: black;
+    border-radius: 2px;
+}
+
+h2{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.field1{
+    color: red;
+    
+}
+
+.field2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+textarea{
+    resize: none;
+    width:600px ;
+    height:100px ;
+}
+
+.fieldh2{
+    color: black;
+}
+
+footer{
+    color: gold;
+}
+
+.enviar{
+    color: blue;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.reset{
+    
+}
